@@ -6,6 +6,7 @@
 
 ``` bash
 # install dependencies
+/* vue init webpack web-movies */
 npm install
 
 # serve with hot reload at localhost:8080
@@ -25,6 +26,12 @@ npm run e2e
 
 # run all tests
 npm test
+
+# install express mongoose
+npm install express mongoose --save-dev
+
+# install nodemon
+npm install nodemon --save-dev
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
