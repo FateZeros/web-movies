@@ -32,6 +32,11 @@ npm install express mongoose --save-dev
 
 # install nodemon
 npm install nodemon --save-dev
+
+# install muse-ui 
+npm install muse-ui --save-dev
 ```
+[MuseUI](https://github.com/museui/muse-ui)
+
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
